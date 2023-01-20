@@ -17,3 +17,9 @@ Once you have an active Web Scraping API subscription, you can try sending a req
 
 ### This Pyhton code example uses Base64 encoded ```user:pass``` authentication.
 
+## Python scripts
+
+| Parser type | Example location         | Download |
+| -------------------- | ------------------------ | -------- |
+| HTML to JSON        | [Trustpilot_parser.py](https://github.com/Smartproxy/trustpilot_python_scraper/blob/main/Trustpilot_parser.py) |``` curl https://raw.githubusercontent.com/Smartproxy/trustpilot_python_scraper/blob/main/Trustpilot_parser.py > Trustpilot_parser.py ``` |
+| JSON to JSON                 | [trustpilot_json_parser_glom.py](https://github.com/Smartproxy/trustpilot_python_scraper/blob/main/trustpilot_json_parser_glom.py)   | ``` curl https://raw.githubusercontent.com/Smartproxy/trustpilot_python_scraper/blob/main/trustpilot_json_parser_glom.py > trustpilot_json_parser_glom.py ``` |
