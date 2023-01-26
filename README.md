@@ -13,7 +13,7 @@ BeautifulSoup
 
 ## Authentication
 
-Once you have an active Web Scraping API subscription, you can try sending a request right from the dashboard Web Scraping API > API playground method tab simply by clicking on Send Request. You will also see an example of curl request generated on the right. 
+Once you have an active Web Scraping API subscription you can set your password in the dashboard Web Scraping API > Authentication method, you can also try sending a request right from the dashboard Web Scraping API > API playground method tab simply by clicking on Send Request. You will also see an example of curl request generated on the right. 
 
 ### This Pyhton code example uses Base64 encoded ```user:pass``` authentication.
 
